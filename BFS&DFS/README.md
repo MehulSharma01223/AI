@@ -4,6 +4,14 @@ Welcome to my AI repository! This repository contains my implementations and pra
 
 ---
 
+## 🖼️ Maze Solution Visualization
+
+Below is an example of how the search algorithm finds a path from the start point to the goal:
+
+![Maze Visualization](output.png)
+
+---
+
 ## 📂 Folder Structure: `bfs and dfs/`
 
 This folder contains a Python-based **Maze Solver** that uses uninformed search algorithms to find a path from a start position ($A$) to a goal position ($B$).
@@ -14,7 +22,6 @@ This folder contains a Python-based **Maze Solver** that uses uninformed search 
 * `output.png`: Generated image showing the solution path and explored states.
 
 ---
-
 ## 🛠️ How to Run the Code
 
 1. **Prerequisites**: Make sure Python is installed on your system along with the `Pillow` library for image generation:
